@@ -3,5 +3,5 @@ This project is an Information System for the Organization of Local Government i
 
 The names of the municipalities are read from the cities.ser file, in the FundingCalculator class and are registered in the list. Clicking the Calculate City Funding button calculates the total subsidy that a municipality must pay to its Communities and Municipal Communities.
 
-The grant for a Community is calculated as: Population * 50 \
-The subsidy for a Municipal Community is calculated as: (1000 * each full square kilometer) + (1000 * each full ton of recyclable materials managed by the recycling centers)
+The grant for a Community is calculated as: **Population * 50** \
+The subsidy for a Municipal Community is calculated as: **(1000 * each full square kilometer) + (1000 * each full ton of recyclable materials managed by the recycling centers)**

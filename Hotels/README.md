@@ -2,7 +2,7 @@
 The following application allows the registration of hotel room bookings (some bookings are AllInclusive and in addition to accommodation include from 1 to 3 meals per day).
 
 The cost of a simple reservation is calculated as: 
-**Accommodation Days × 120**
+**Accommodation Days × 120** \
 The cost of an AllInclusive booking is calculated as:
 **Days of Stay × (120 + number of Meals Per Day × 30)**
 

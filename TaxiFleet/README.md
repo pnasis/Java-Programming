@@ -1,0 +1,4 @@
+# DETAILS ABOUT THIS PROJECT
+The following project is an application that allows the registration of data related to taxi fleets (Fleet) that a company has in various cities. Taxis are divided into ElectricalTaxi marked with registration number (String), driver's name (String) and the number of batteries (int) and GasolineTaxi marked with registration number (String), the name of the driver (String), petrol tank in liters (int) and average petrol consumption in liters / 100km (double). The taxi fleet of a city (Fleet) is characterized by the name of the city-fleet (String) and consists of different taxis of both categories. \
+In a petrol taxi the autonomy (the kilometers it can travel utilizing all the fuel in the tank) is calculated as: **autonomy = 90 x (tank size / average consumption)**
+In an electric taxi the autonomy (the kilometers it can travel using all the energy of the batteries) is calculated as: **autonomy = 70 x number of batteries**

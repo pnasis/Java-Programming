@@ -1,0 +1,12 @@
+Fleet Name: Athens
+--------------------------------------------------------------
+Name: George
+Licence Plate: AVG25467
+Autonomy: 42352.94
+--------------------------
+Name: John
+Licence Plate: AVG29345
+Autonomy: 700000.00
+--------------------------
+
+Total Aytonomy: 742352.94
